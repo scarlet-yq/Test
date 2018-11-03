@@ -2,18 +2,21 @@
   <div id="app">
     <img src="./assets/logo.png">
     <Search></Search>
+    <Type></Type>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 import Search from './components/search.vue'
+import Type from './components/type.vue'
 
 export default {
   name: 'app',
   components: {
     HelloWorld,
-    Search
+    Search,
+    Type
   }
 }
 </script>
