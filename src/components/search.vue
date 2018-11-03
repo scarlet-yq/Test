@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>这是search模块</h1>
-    <button>搜索</button>
+    <h1>这是搜索serach模块</h1>
+    <button>serach搜索</button>
   </div>
 </template>
 
