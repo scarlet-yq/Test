@@ -3,6 +3,7 @@
     <img src="./assets/logo.png">
     <Search></Search>
     <Type></Type>
+    <h4>这是app</h4>
   </div>
 </template>
 
