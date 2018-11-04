@@ -3,7 +3,8 @@
     <img src="./assets/logo.png">
     <Search></Search>
     <Type></Type>
-    <h4>这是app</h4>
+    <h4>this is app page</h4>
+    <h5>看看是否有冲突,最好由冲突</h5>
   </div>
 </template>
 
